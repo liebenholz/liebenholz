@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-- [ 2018.03 ~ ing ] Major: B.S. Computer Science & Engineering, Kangwon National University
-- [ 2019.03 ~ ing ] Minor: B.A. Video Culture & Contents. Kangwon National University
+- [ 2018.03 ~ ing ] Major: Computer Science & Engineering, Kangwon National University
+- [ 2019.03 ~ ing ] Minor: Video Culture & Contents. Kangwon National University
 - [ 2024.02 ~ ing ] Undergraduate Research Internship @ Computer Graphics Lab, Kangwon National University
 
 ## Unreal Engine Developer
