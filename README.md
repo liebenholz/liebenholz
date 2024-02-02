@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Education
+- [ 2018.03 ~ ing ] Major: B.S. Computer Science & Engineering, Kangwon National University
+- [ 2019.03 ~ ing ] Minor: B.A. Video Culture & Contents. Kangwon National University
+- [ 2023.03 ~ ing ] Undergraduate Research Internship @ Computer Graphics Lab, Kangwon National University
+
+## Unreal Engine Developer
+- [ 2023.08 ~ 2024.02 ] Metaverse Developer Education Program with Unreal Engine, Kangwon University-Industry Cooperation Foundation 
+- [ 2023.01 ~ 2024.02 ] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd.
