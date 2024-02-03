@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **liebenholz/liebenholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,6 @@ Here are some ideas to get you started:
 
 ## Unreal Engine Developer
 - [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation 
-- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd.
+- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
+### Portfolio
+- **Arean Rumble** : P2P based Multy Player Action RPG with Arena PVP Contents
