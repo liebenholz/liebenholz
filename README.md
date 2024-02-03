@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ### Portfolio
 - **Arean Rumble** : P2P based Multy Player Action RPG with Arena PVP Contents
 
-## Graphics Engineer
+## Graphics Engineer
 - [2024.02 ~ ing] Game AI Lab, NCSOFT. R&D Co-work Internship
