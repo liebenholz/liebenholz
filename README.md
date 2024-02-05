@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - [2024.02 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
 
 --------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liebenholz&layout=compact&theme=light)
 
