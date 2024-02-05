@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
 ### Portfolio
 - **[Arean Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : P2P based Multi Player Action RPG with Arena PVP Contents, Team Project
-- <!--
+<!--
 - **Adventure(2024)** : Imitation of YOASOBI - Adventure Animation Music Video , Personal Work
-- -->
+-->
 
 ## Graphics Engineer
 - [2024.02 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
