@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 --------
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liebenholz&layout=compact&theme=light)
 
