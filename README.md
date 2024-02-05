@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Portfolio
 - **[Arean Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : P2P based Multi Player Action RPG with Arena PVP Contents, Team Project
 <!--
-- **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video , Personal Work
+- **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work
 -->
 
 ## Graphics Engineer
