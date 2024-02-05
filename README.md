@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ## Graphics Engineer
 - [2024.02 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
 
-![liebenholz's solved.ac stats](https://github-readme-solvedac.liebenholz.vercel.app/api/?handle=hyperflow)
+![liebenholz98's solved.ac stats](https://github-readme-solvedac.liebenholz98.vercel.app/api/?handle=liebenholz98)
