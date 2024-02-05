@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-- [2014.03 ~ 2017.02] Graduated, Bojeong High School, Yongin, Gyeoggi.
+- [2014.03 ~ 2017.02] Graduate, Bojeong High School.
 - [2018.03 ~ ing] Major in Computer Science & Engineering, Kangwon National University.
 - [2019.03 ~ ing] Minor in Video Culture & Contents. Kangwon National University.
 - [2024.02 ~ ing] Undergraduate Research Intern @ Computer Graphics Lab, Kangwon National University.
