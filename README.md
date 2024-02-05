@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-- [2018.03 ~ ing] Major in Computer Science & Engineering, Kangwon National University
-- [2019.03 ~ ing] Minor in Video Culture & Contents. Kangwon National University
-- [2024.02 ~ ing] Undergraduate Research Intern @ Computer Graphics Lab, Kangwon National University
+- [2014.03 ~ 2017.02] Graduated, Bojeong High School, Yongin, Gyeoggi.
+- [2018.03 ~ ing] Major in Computer Science & Engineering, Kangwon National University.
+- [2019.03 ~ ing] Minor in Video Culture & Contents. Kangwon National University.
+- [2024.02 ~ ing] Undergraduate Research Intern @ Computer Graphics Lab, Kangwon National University.
 
 ## Unreal Engine Engineer
 - [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation 
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [2024.02 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
 
 --------
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liebenholz&layout=compact&theme=light)
 
