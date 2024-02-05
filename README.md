@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - [2024.02 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
 
 --------
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=liebenholz&show_icons=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liebenholz&layout=compact&theme=light)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
