@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation 
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
 ### Portfolio
-- **[Arean Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : P2P based Multi Player Action RPG with Arena PVP Contents, Team Project
+- **[Arean Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Team Project
 <!--
 - **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work
 --> 
