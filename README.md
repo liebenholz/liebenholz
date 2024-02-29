@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 --> 
 
 ## Graphics Engineer
-- [2024.02 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
+- [2024.03 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
 
 --------
 
