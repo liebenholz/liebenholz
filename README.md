@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - [2014.03 ~ 2017.02] Bojeong High School.
 - [2018.03 ~ ing] Major in Computer Science & Engineering, Kangwon National University.
 - [2019.03 ~ ing] Minor in Video Culture & Contents. Kangwon National University.
+<!--
 - [2024.03 ~ ing] Undergraduate Research Intern @Computer Graphics Lab, Kangwon National University.
 
-<!--
+
 ## Activity
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Backend Track, Kakao Corp. x Kangwon National University
 -->
@@ -31,11 +32,11 @@ Here are some ideas to get you started:
 - **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Team Project
 <!--
 - **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work
---> 
+
 
 ## Graphics Engineer
 - [2024.03 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
-
+--> 
 --------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
