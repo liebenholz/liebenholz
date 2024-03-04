@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - [2019.03 ~ ing] Minor in Video Culture & Contents. Kangwon National University.
 - [2024.03 ~ ing] Undergraduate Research Intern @Computer Graphics Lab, Kangwon National University.
 
+<!--
+## Activity
+- [2024.04 ~ 2024.11] Kakao Tech Campus, Backend Track, Kakao Corp. x Kangwon National University
+-->
+
 ## Unreal Engine Engineer
 - [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation 
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
