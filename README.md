@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - [2014.03 ~ 2017.02] Bojeong High School.
 - [2018.03 ~ ing] Major in Computer Science & Engineering, Kangwon National University.
 - [2019.03 ~ ing] Minor in Visual Culture & Contents. Kangwon National University.
+## Experience
+- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
 ## Activity
 - [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation
 <!--
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Backend Track, Kakao Corp. x Kangwon National University
 -->
-## Experience
-- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
 ### Portfolio
 - **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project
 <!--
