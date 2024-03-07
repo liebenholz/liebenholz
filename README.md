@@ -16,26 +16,18 @@ Here are some ideas to get you started:
 ## Education
 - [2014.03 ~ 2017.02] Bojeong High School.
 - [2018.03 ~ ing] Major in Computer Science & Engineering, Kangwon National University.
-- [2019.03 ~ ing] Minor in Video Culture & Contents. Kangwon National University.
-<!--
-- [2024.03 ~ ing] Undergraduate Research Intern @Computer Graphics Lab, Kangwon National University.
-
-
+- [2019.03 ~ ing] Minor in Visual Culture & Contents. Kangwon National University.
 ## Activity
+- [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation
+<!--
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Backend Track, Kakao Corp. x Kangwon National University
 -->
-
-## Unreal Engine Engineer
-- [2023.08 ~ 2024.02] UE5 Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation 
+## Experience
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd
 ### Portfolio
-- **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Team Project
+- **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project
 <!--
 - **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work
-
-
-## Graphics Engineer
-- [2024.03 ~ ing]  R&D Co-work Internship, Game AI Lab, NCSOFT
 --> 
 --------
 
