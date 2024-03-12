@@ -4,7 +4,7 @@
 - [2018.03 ~ ing] Major in Computer Science & Engineering(Intelligence Track), Kangwon National University.
 - [2019.03 ~ ing] Minor in Visual Culture & Contents. Kangwon National University.
 ## Experience
-- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Contents R&D, Pocket Memory Co.,Ltd.
+- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, Pocket Memory Co.,Ltd.
 ## Activity
 - [2023.08 ~ 2024.02] Unreal Engine Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation.
 <!--
