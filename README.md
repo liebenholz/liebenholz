@@ -11,13 +11,12 @@
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Android Development Track, Kakao Corp. x Kangwon National University.
 -->
 ### Portfolio
-| Activity(Year)                    | Intriduction                                                  | Role             | Tech Stack                                                |
-| --------------------------------- | ----------------------------------------------------- | ---------------- | --------------------------------------------------- |
-| **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)**      | Listen Server based Multi Player Action RPG with Arena PVP Contents, Team Project.                     | Director, PM, Programming        | ![cpp] ![unreal]                                   |
+- **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
 
 <!--
 - **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work.
 --> 
 --------
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liebenholz&include_all_commits=true&show_icons=true&icon_color=424242)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
