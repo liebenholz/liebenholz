@@ -6,6 +6,7 @@
 ## Experience
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, Pocket Memory Co.,Ltd.
 ## Activity
+- [2018.03 ~ 2019.12] Blending, Game Develop & CS Study Club, Computer Science & Engineering, Kangwon National University.
 - [2023.08 ~ 2024.02] Unreal Engine Metaverse Developer Education Program, Kangwon University-Industry Cooperation Foundation.
 <!--
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Android Development Track, Kakao Corp. x Kangwon National University.
