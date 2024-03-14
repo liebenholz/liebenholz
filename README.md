@@ -12,7 +12,7 @@
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Android Development Track, Kakao Corp. x Kangwon National University.
 -->
 ### Portfolio
-- **[[2023]Arena Rumble](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
+- **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
   - Team Leader, Director, PM, Technical Assistant(Server Programming, Mastering)
 
 <!--
