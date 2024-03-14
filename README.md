@@ -11,6 +11,10 @@
 - [2024.04 ~ 2024.11] Kakao Tech Campus, Android Development Track, Kakao Corp. x Kangwon National University.
 -->
 ### Portfolio
+| (연도) 활동명                     | 소개                                                  | 참여             | 기술                                                |
+| --------------------------------- | ----------------------------------------------------- | ---------------- | --------------------------------------------------- |
+| **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)**      | Listen Server based Multi Player Action RPG with Arena PVP Contents, Team Project.                     | Director, PM, Programming        | ![c++] ![unrealengine]                                   |
+
 - **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
 <!--
 - **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work.
