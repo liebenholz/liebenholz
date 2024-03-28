@@ -21,3 +21,5 @@
 --------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
+![liebenholz](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{liebenholz})
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{liebenholz}/{part})
