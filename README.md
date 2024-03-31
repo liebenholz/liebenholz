@@ -14,7 +14,7 @@
 ### Portfolio
 - **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
   - Project Leader, Director, PM, Technical Assistant(Mechanism Engineering, Server Programming, Mastering)
-- **Dereliction(2024)** : Under Development, Soulslike Single Player Fantasy Action RPG, College Senior Project with Unreal Engine.
+- **Dereliction(2024)** : -SCHEDULED- Soulslike Single Player Fantasy Action RPG, College Senior Project with Unreal Engine.
   - Project Leader, PM
 <!--
 - **Adventure(2024)** : Imitation of [YOASOBI 「Adventure」](https://youtu.be/Av3xaZkVpJs) Animation Music Video, Personal Work.
