@@ -5,6 +5,9 @@
 - [2019.03 ~ ing] Minor in **Visual Culture & Contents**. Kangwon National University.
 ## Experience
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
+### Sideline Experience
+- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Mothly Highlights, Collet YouTube, **Sandbox Network Inc.**
+- [2022.09 ~ 2023.12] YouTube Video Editor, Just Chatting Clip Highlights, Ine YouTube @ Waktaverse Isegye Idol, **Parable Entertainment Inc.**
 ## Activity
 - [2018.03 ~ 2019.12] **Blending**, CS Study Club, Computer Communication Engineering, Kangwon National University.
 - [2023.08 ~ 2024.02] **Unreal Engine Developer Education Program**, Kangwon University-Industry Cooperation Foundation.
