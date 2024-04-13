@@ -6,8 +6,8 @@
 ## Experience
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
 ### Sideline Experience
-- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Monthly Highlights, Collet YouTube, **Sandbox Network Inc.**
-- [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, Ine YouTube @ Isegye Idol, **Parable Entertainment Inc.**
+- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Monthly Highlights, [Collet YouTube](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
+- [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [Ine YouTube](https://www.youtube.com/@INE_) @ Isegye Idol, **Parable Entertainment Inc.**
 ## Activity
 - [2018.03 ~ 2019.12] **Blending**, CS Study Club, Computer Communication Engineering, Kangwon National University.
 - [2023.08 ~ 2024.02] **Unreal Engine Developer Education Program**, Kangwon University-Industry Cooperation Foundation.
