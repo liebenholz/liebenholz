@@ -2,7 +2,7 @@
 ## Education
 - [2014.03 ~ 2017.02] Bojeong High School.
 - [2018.03 ~ ing] Major in **Computer Communication Engineering** (Intelligence Track), Kangwon National University.
-- [2019.03 ~ ing] Minor in **Visual Culture** (Contents Design). Kangwon National University.
+- [2019.03 ~ ing] Minor in **Visual Culture** (New Media Contents Design). Kangwon National University.
 ## Experience
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
 ### Sideline Experience
