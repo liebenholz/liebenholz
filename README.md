@@ -14,6 +14,7 @@
 ## Portfolio
 - **[Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)** : Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
   - Project Leader, Director, PM, Technical Assistant(Mechanism Engineering, Server Programming, Mastering).
+  - [Presentation PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing), [Review Article](https://velog.io/@liebenholz/arenarumble1) 
 - **Era of the Dark(2024)** : In Progress, Souls-like Single Player Fantasy Action RPG, Capstone Design Project with Unreal Engine.
   - Project Leader, Director, PM, System Developer.
 ------
