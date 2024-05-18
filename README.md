@@ -12,13 +12,18 @@
 - [2018.03 ~ 2019.12] **Blending**, CS Study Club, Computer Communication Engineering, Kangwon National University.
 - [2023.08 ~ 2024.02] **Unreal Engine Developer Education Program**, Kangwon University-Industry Cooperation Foundation.
 ## Portfolio
-### [Arena Rumble(2023)](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd)
-- Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project.
-- Project Leader, Director, PM, Technical Assistant(Mechanism Engineering, Server Programming, Mastering).
-- [Presentation PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing), [Review Article](https://velog.io/@liebenholz/arenarumble1)
-  
-### Era of the Dark(2024, In Progress)
-- Souls-like Single Player Fantasy Action RPG, Capstone Design Project with Unreal Engine.
-- Project Leader, Director, PM, System Developer.
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+
+
+| Project Title | Details | Role | Note |
+| --- | --- | --- | --- |
+| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, Unreal Engine Team Project | Project Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing), [Review Article](https://velog.io/@liebenholz/arenarumble1) |
+| **Era of the Dark (2024)** | Souls-like Single Player Fantasy Action RPG, Capstone Design Project with Unreal Engine | Project Leader, Director, PM, System Developer |  |
+
+
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
+
+
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
