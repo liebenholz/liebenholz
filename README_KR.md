@@ -8,7 +8,7 @@
 - [2019.08 ~ 2020.12] [**'코렛트 YouTube'**](https://www.youtube.com/@Collet11), 유튜브 게임 및 핫클립 편집자, **샌드박스네트워크**.
 - [2022.09 ~ 2023.12] 이세계아이돌 [**'아이네 INE'**](https://www.youtube.com/@INE_), 유튜브 핫클립 편집자, **패러블엔터테인먼트**.
 ## Activity
-- [2018.03 ~ 2019.12] 강원대학교 컴퓨터정보통신공학전공 컴퓨터공학 학술동아리 **'블렌딩'**.
+- [2018.03 ~ 2019.12] 강원대학교 게임 개발 및 학술 동아리 **'블렌딩'**.
 - [2023.08 ~ 2024.02] 강원대학교 산학협력단 **'언리얼엔진 기반 메타버스 개발자 교육과정'**.
 ## Portfolio
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
