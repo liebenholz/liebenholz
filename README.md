@@ -4,8 +4,9 @@
 - [2018.03 ~ ing] Major in **Computer Communication Engineering** (Intelligence Track), Kangwon National University.
 - [2019.03 ~ ing] Minor in **Visual Culture** (New Media Contents Design Course), Kangwon National University.
 ## Experience
+### Information Technology
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
-### Sideline Experience
+### Video Contents Production
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @Isegye Idol, **Parable Entertainment Inc.**
 ## Activity
