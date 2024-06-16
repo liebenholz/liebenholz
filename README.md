@@ -9,8 +9,8 @@
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @Isegye Idol, **Parable Entertainment Inc.**
 ## Activity
-- [2018.03 ~ 2019.12] **Blending**, CS Study Club, Computer Communication Engineering, Kangwon National University.
-- [2023.08 ~ 2024.02] **Unreal Engine Developer Education Program**, Kangwon University-Industry Cooperation Foundation.
+- [2018.03 ~ 2019.12] **Blending**, CS Study & Game Development Club, Kangwon National University.
+- [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
 ## Portfolio
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
