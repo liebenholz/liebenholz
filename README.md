@@ -12,6 +12,7 @@
 ## Activity
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
+- [2024.07 ~ 2024.10] **2024 Google Machine Learning Bootcamp**, Google Korea.
 ## Portfolio
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
