@@ -2,19 +2,20 @@
 - [2014.03 ~ 2017.02] 보정고등학교.
 - [2018.03 ~ 2025.02] 강원대학교 **컴퓨터정보통신공학전공** (인텔리전스 트랙) 주전공.
 - [2019.03 ~ 2025.02] 강원대학교 **영상문화학과** (뉴미디어콘텐츠 제작) 부전공.
+  
 ## 약력
 ### 정보기술 관련
 - [2024.01 ~ 2024.02]  **'(주)포켓메모리'**, 언리얼엔진 R&D 현장실습
 ### 콘텐츠 제작 관련
 - [2019.08 ~ 2020.12] [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), 유튜브 게임 및 핫클립 편집자, **샌드박스네트워크**.
 - [2022.09 ~ 2023.12] 이세계아이돌 [**'아이네 INE'**](https://www.youtube.com/@INE_), 유튜브 핫클립 편집자, **패러블엔터테인먼트**.
-<!--
-- [2024.07 ~ ing] 스텔라이브 유니버스 [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/@akanelize), 유튜브 콘텐츠 기획 및 관리(PM), **스텔라이브**.
--->
+- [2024.07 ~ ing] 스텔라이브 유니버스 [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/@akanelize), 유튜브 콘텐츠 기획 관리(PM), **스텔라이브**.
+
 ## 활동
 - [2018.03 ~ 2019.12] 강원대학교 게임 개발 및 학술 동아리 **'블렌딩'**.
 - [2023.08 ~ 2024.02] 강원대학교 산학협력단 **'언리얼엔진 기반 메타버스 개발자 교육과정'**.
 - [2024.07 ~ 2024.10] 구글 코리아 **'2024 구글 머신러닝 부트캠프'**.
+  
 ## 포트폴리오
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
