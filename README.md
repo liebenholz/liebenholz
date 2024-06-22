@@ -3,19 +3,21 @@
 - [2014.03 ~ 2017.02] Bojeong High School.
 - [2018.03 ~ ing] Major in **Computer Communication Engineering** (Intelligence Track), Kangwon National University.
 - [2019.03 ~ ing] Minor in **Visual Culture** (New Media Contents Design Course), Kangwon National University.
+- 
 ## Experience
 ### Information Technology
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
+  
 ### Video Contents Production
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @Isegye Idol, **Parable Entertainment Inc.**
-<!--
-- [2024.07 ~ ing] YouTube Manager, Contents & Product Management, [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/@akanelize) @Stelive Universe, **Stelive Inc.**
--->
+- [2024.07 ~ ing] YouTube Manager, Product Management(PM), [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/@akanelize) @Stelive Universe, **Stelive Inc.**
+
 ## Activity
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
 - [2024.07 ~ 2024.10] **2024 Google Machine Learning Bootcamp**, Google for Developers Korea.
+
 ## Portfolio
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
