@@ -11,7 +11,9 @@
 ### Video Contents Production
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @Isegye Idol, **Parable Entertainment Inc.**
-- [2024.07 ~ ing] YouTube Project Management, [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/@akanelize) @StelLive Universe, **StelLive Inc.**
+<!--
+- [2024.07 ~ ing] YouTube Project Manager(PM), [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/@akanelize) @StelLive Universe, **StelLive Inc.**
+-->
 
 ## Activity
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
