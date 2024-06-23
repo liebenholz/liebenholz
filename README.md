@@ -1,8 +1,8 @@
 
 ## Education
 - [2014.03 ~ 2017.02] Bojeong High School.
-- [2018.03 ~ ing] Major in **Computer Communication Engineering** (Intelligence Track), Kangwon National University.
-- [2019.03 ~ ing] Minor in **Visual Culture** (New Media Contents Design Course), Kangwon National University.
+- [2018.03 ~ ing] Major in **Computer Communication Engineering**, Kangwon National University.
+- [2019.03 ~ ing] Minor in **Visual Culture of Arts**, Kangwon National University.
 
 ## Experience
 ### Information Technology
