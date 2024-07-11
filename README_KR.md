@@ -20,8 +20,8 @@
 
 | 프로젝트명 | 요약 | 역할 | 비고 |
 | :-: | :-: | :-: | :-: |
-| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server 기반 투기장형 PVP 중심 멀티 액션 RPG, 언리얼엔진 개발자 교육 프로그램 내 팀 프로젝트 | 팀장, 기획, PM, 기술보조 | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
-| **Era of the Dark (2024)** | 소울라이크 싱글 액션 RPG, 캡스톤디자인 프로젝트 | 팀장, 기획, PM, 시스템 개발 | In Progress... |
+| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
+| **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Quest Chain System, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
 
 
 ------
