@@ -1,7 +1,6 @@
 
 ## Education
-- [2018.03 ~ ing] Major in **Computer Science & Engineering**, Kangwon National University.
-- [2019.03 ~ ing] Minor in **Visual Culture of Arts**, Kangwon National University.
+- [2018.03 ~ ing] Major in **Computer Science & Engineering**, Minor in **Visual Culture of Arts**, Kangwon National University.
 <!--
 - [2024.09 ~ ing] Undergraduate Intern of **HAI Lab**, **Dept. of Applied Artifical Intelligence**, SEOULTECH.
 -->
