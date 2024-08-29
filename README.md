@@ -30,7 +30,7 @@
 
 ### 🎮 Game Development
  
-| Project Title | Abstract | Role | Notes |
+| Project Title | Description | Role | Notes |
 | :-: | :-: | :-: | :-: |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 | **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Quest Chain System, Unreal Engine 5, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
@@ -38,7 +38,7 @@
 <!--
 ### 📚 Research & Papers
  
-| Project Title | Abstract | Lead Organization | Notes |
+| Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
 | (2024) |  | Google Machine Learning Bootcamp |  |
 -->
