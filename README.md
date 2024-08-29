@@ -40,7 +40,7 @@
  
 | Project Title | Abstract | Lead Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| |  |  |  |
+| (2024) |  | Google Machine Learning Bootcamp |  |
 -->
 
 ------
