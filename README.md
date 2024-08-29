@@ -1,5 +1,5 @@
 ## Skills
- | Artificial Intelligence | Programming Languages | Collaboration Tools | Etc |
+ | Artificial Intelligence | Programming Languages | Collaborative Tool | Etc |
   | :-: | :-: | :-: | :-: |
   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> | <img src="https://img.shields.io/badge/c-512BD4?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white"> | <img src="https://img.shields.io/badge/Notion-FAFAFA?style=for-the-badge&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> | <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
 
@@ -28,15 +28,20 @@
 
 ## Portfolio
 
-<details>
-  <summary> 🎮 Game Development</summary>
+### 🎮 Game Development
  
-  | Project Title | Abstract | Role | Notes |
-  | :-: | :-: | :-: | :-: |
-  | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
-  | **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Quest Chain System, Unreal Engine 5, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
+| Project Title | Abstract | Role | Notes |
+| :-: | :-: | :-: | :-: |
+| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
+| **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Quest Chain System, Unreal Engine 5, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
 
-</details>
+<!--
+### 📚 Research & Papers
+ 
+| Project Title | Abstract | Lead Organization | Notes |
+| :-: | :-: | :-: | :-: |
+| |  |  |  |
+-->
 
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
