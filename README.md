@@ -1,9 +1,12 @@
-
 ## Education
-- [2018.03 ~ ing] Major in **Computer Science & Engineering**, Minor in **Visual Culture of Arts**, Kangwon National University.
-<!--
-- [2024.09 ~ ing] Undergraduate Intern of **HAI Lab**, **Dept. of Applied Artifical Intelligence**, SEOULTECH.
--->
+- [2018.03 ~ 2025.02] Major in **Computer Science & Engineering**, Minor in **Visual Culture**, Kangwon National University.
+- [2024.09 ~ 2025.02] Research Intern of **HAI Lab**, **Applied Artificial Intelligence**, Seoul National University of Science and Technology.
+- [2025.03 ~ 2027.02] Master’s Course of **HAI Lab**, **Applied Artificial Intelligence**, Seoul National University of Science and Technology.
+
+## Skills
+ | Artificial Intelligence | Programming Languages | Collab Tools | Etc |
+  | :-: | :-: | :-: | :-: |
+  | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> | <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white"> | <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> | <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 
 ## Experience
 ### Information Technology
@@ -22,20 +25,24 @@
 -->
 
 ## Portfolio
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
+<details>
+  <summary>Game Development</summary>
+  
+  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  | Project Title | Abstract | Role | Notes |
+  | :-: | :-: | :-: | :-: |
+  | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
+  | **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Quest Chain System, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
 
-| Project Title | Abstract | Role | Notes |
-| :-: | :-: | :-: | :-: |
-| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
-| **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Quest Chain System, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
-
+</details>
 
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
 
 <!--
 
+<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
