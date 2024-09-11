@@ -40,7 +40,7 @@
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **Intelligent Live Streaming Chat Bot (2024)** | Google ML Bootcamp Gemma Sprint Project, Making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program in order to detect questions from live chats and answer them automatically | Google Machine Learning Bootcamp | Code Tutorial |
+| **Intelligent Live Streaming Chat Bot (2024)** | Google ML Bootcamp Gemma Sprint Project, Making Live Stream Chat Bot with Fine-tuned Gemma2 2B Model as AfreecaTV(SOOP) Extension Program | Google for Developers Korea | Code Tutorial |
 
 
 ------
