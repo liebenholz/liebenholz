@@ -35,13 +35,13 @@
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 | **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Equipment System, Unreal Engine, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
 
-<!--
+
 ### 📚 Research & Papers
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| (2024) |  | Google Machine Learning Bootcamp |  |
--->
+| Intelligent Chat Bot for Live Streaming(2024) | Making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program to detect questions from live chats and answer automatically | Google Machine Learning Bootcamp | Github Code Tutorial |
+
 
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
