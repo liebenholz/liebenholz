@@ -40,7 +40,7 @@
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| Intelligent Chat Bot for Live Streaming(2024) | Making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program in order to detect questions from live chats and answer them automatically | Google Machine Learning Bootcamp | Code Tutorial |
+| **Intelligent Chat Bot for Live Streaming (2024)** | Making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program in order to detect questions from live chats and answer them automatically | Google Machine Learning Bootcamp | Code Tutorial |
 
 
 ------
