@@ -40,7 +40,7 @@
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **Intelligent Live Streaming Chat Bot (2024)** | Making Live Stream Chat Bot with Fine-tuned Gemma Model as AfreecaTV(SOOP) Extension Program, Gemma Sprint Project from Google ML Bootcamp Korea | Google for Developers Korea | Code Tutorial |
+| **Intelligent Live Streaming Chat Bot (2024)** | Making Live Stream Chat Bot with Fine-tuned Gemma Model as AfreecaTV(SOOP) Extension Program, Gemma Sprint Project from Google Machine Learning Bootcamp Korea | Google for Developers Korea | Code Tutorial |
 
 
 ------
