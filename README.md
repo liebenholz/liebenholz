@@ -36,7 +36,7 @@
 | **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Equipment System, Unreal Engine, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
 
 
-### 📚 Research & Papers
+### 📚 Research Project
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
