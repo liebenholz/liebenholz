@@ -1,32 +1,14 @@
-## Education
-- [2014.03 ~ 2017.02] Bojeong High School, Yongin-si, Gyeonggi-do.
-- [2018.03 ~ 2025.02] Major in **Computer Science & Engineering**, Minor in **Visual Culture**, Kangwon National University.
-  - Intelligence Track, GPA: 3.61/4.5
-<!--
-- [2024.10 ~ Present] Research Intern of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
-- [2025.03 ~ 2027.02] Master’s Course of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
--->
-
-## Experience
-### Information Technology
-- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
-  
-### Video Contents Production
-- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
-- [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
-
-## Activity
-- [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
-- [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
-- [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024**, Alumni, Google for Developers Korea.
-<!--
-- [2025.01 ~ 2025.02] **LG Aimers: 6th Program**, AI Education & Hackathon, LG AI Research.
--->
-
 ## Skills
 **Programming Languages**
 
-<img src="https://img.shields.io/badge/C-512BD4?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/C-512BD4?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white"> 
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+
+
+**Web Framework & Database**
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+-->
 
 **Artificial Intelligence**
 
@@ -44,16 +26,42 @@
 
 <img src="https://img.shields.io/badge/PremierePro-00005b?style=flat-square&logo=adobepremierepro&logoColor=#9999ff"> <img src="https://img.shields.io/badge/AfterEffects-00005b?style=flat-square&logo=adobeaftereffects&logoColor=#9999ff"> <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=#31A8FF">
 
+
+## Education
+<!--
+- [2024.10 ~ Present] Research Intern of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
+- [2025.03 ~ 2027.02] Master’s Course of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
+-->
+- [2018.03 ~ 2025.02] Major in **Computer Science & Engineering**, Minor in **Visual Culture**, Kangwon National University.
+  - Intelligence Track, GPA: 3.61/4.5
+- [2014.03 ~ 2017.02] Bojeong High School, Yongin-si, Gyeonggi-do.
+
+## Experience
+### Information Technology
+- [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
+  
+### Video Contents Production
+- [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
+- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
+
+## Activity
+<!--
+- [2025.01 ~ 2025.02] **LG Aimers: 6th Program**, AI Education & Hackathon, LG AI Research.
+-->
+- [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024**, Alumni, Google for Developers Korea.
+- [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
+- [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
+
 ## Portfolio
 ### 🎮 Game Development
  
 | Project Title | Description | Role | Notes |
 | :-: | :-: | :-: | :-: |
-| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 | **Era of the Dark (2024)** | Soulslike Single Player Action RPG with Equipment System, Unreal Engine, Capstone Design Project | Team Leader, Director, PM, System Developer | In Progress... |
+| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
 
-### 📚 AI/ML & Data Science Project
+### 📚 App Development Project
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
