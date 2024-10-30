@@ -1,33 +1,33 @@
-## Skills
-**Programming Languages**
+# Skills
+### Programming Languages
 
 <img src="https://img.shields.io/badge/C-512BD4?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white"> 
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 
 
-**Web Framework & Database**
+### Web Framework & Database
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 -->
 
-**Artificial Intelligence**
+### Artificial Intelligence
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
-**Game Development**
+### Game Development
 
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white">
 
-**Communication & Networking**
+### Communication & Networking
 
 <img src="https://img.shields.io/badge/Notion-FAFAFA?style=flat-square&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 
-**Video Edit & Design**
+### Video Edit & Design
 
 <img src="https://img.shields.io/badge/PremierePro-00005b?style=flat-square&logo=adobepremierepro&logoColor=#9999ff"> <img src="https://img.shields.io/badge/AfterEffects-00005b?style=flat-square&logo=adobeaftereffects&logoColor=#9999ff"> <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=#31A8FF">
 
 
-## Education
+# Education
 <!--
 - [2024.10 ~ Present] Research Intern of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
 - [2025.03 ~ 2027.02] Master’s Course of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
@@ -36,10 +36,10 @@
   - Intelligence Track, GPA: 3.61/4.5
 - [2014.03 ~ 2017.02] Bojeong High School, Yongin-si, Gyeonggi-do.
 
-## Experience
+# Experience
+## Career
 ### Information Technology
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
-  
 ### Video Contents Production
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
