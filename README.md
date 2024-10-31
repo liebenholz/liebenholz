@@ -42,7 +42,7 @@
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
 ### Video Contents Production
 <!--
-- [2024.11 ~ present] YouTube Video Editor, F&B Reviews & V-logs, [**'잡식맨'**](https://www.youtube.com/@JOBXICMAN), Sub Channel of [**'육식맨'**](https://www.youtube.com/@YOOXICMAN)
+- [2024.11 ~ present] YouTube Video Editor, F&B Review Contents & V-logs, [**'육식맨 YOOXICMAN'**](https://www.youtube.com/@YOOXICMAN)
 -->
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
