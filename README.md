@@ -37,7 +37,7 @@
 -->
 - [2018.03 ~ 2025.02] Major in **Computer Science & Engineering**, Minor in **Visual Culture**, Kangwon National University.
   - Intelligence Track, GPA: 3.61/4.5
-- [2014.03 ~ 2017.02] Bojeong High School, Yongin-si, Gyeonggi-do.
+- [2014.03 ~ 2017.02] Bojeong High School, Academic, Yongin-si, Gyeonggi-do.
 
 # Experience
 ## Career
