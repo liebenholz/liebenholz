@@ -28,10 +28,6 @@
 
 
 # Education
-<!--
-- [2024.10 ~ Present] Research Intern of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
-- [2025.03 ~ 2027.02] Master’s Course of [**HAI Lab**](https://hai.seoultech.ac.kr/), Dept. of **Applied Artificial Intelligence**, SeoulTech.
--->
 - [2018.03 ~ 2025.02] Major in **Computer Science & Engineering**, Minor in **Visual Culture**, Kangwon National University.
   - Intelligence Track, GPA: 3.61/4.5
 - [2014.03 ~ 2017.02] Bojeong High School, Academic, Yongin-si, Gyeonggi-do.
