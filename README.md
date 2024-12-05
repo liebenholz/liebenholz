@@ -37,11 +37,13 @@
 ## Career
 ### Information Technology
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
+
 ### Video Contents Production
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 
 ## Activity
+### Information Technology
 <!--
 - [2025.01 ~ 2025.02] **LG Aimers: 6th Program**, AI Education & Hackathon, LG AI Research.
 -->
