@@ -36,6 +36,9 @@
 # Experience
 ## Career
 ### Information Technology
+<!--
+- [2025.01 ~   ing  ] Tech PM, Game Localization Pipeline Production, Global Communication, **Nexon Korea Inc.**
+-->
 - [2024.01 ~ 2024.02] Unreal Engine Developer Internship, Research & Develop, **Pocket Memory Co.,Ltd.**
 
 ### Video Contents Production
