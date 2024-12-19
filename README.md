@@ -62,7 +62,7 @@
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://drive.google.com/file/d/1yeHNl5YXux_7bGdh5i0hbQMl5L8yPnZ7/view?usp=sharing) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
 
-### 📚 Application/Service Development
+### 📚 AI Integrated Service Development
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
