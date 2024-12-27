@@ -64,7 +64,7 @@
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **Game Review Classification (2025)** | Making Classification Model with Gemma Fine-tuning whether Game Reviews from Community are Positive or Negative | Individual Project | In Progress... |
+| **Game Review Classification (2025)** | Making Classification Model with Gemma Fine-tuning whether Game Reviews from Communities are Positive or Negative | Individual Project | In Progress... |
 | **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma Model as AfreecaTV(SOOP) Extension Program, Gemma Sprint Project from Google Machine Learning Bootcamp Korea | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 
