@@ -30,7 +30,7 @@
 
 # Education
 - [2018.03 ~ 2025.02] B.S. Computer Science & Engineering, Kangwon National University.
-  - Major in **Computer Science & Engineering**, Minor in **Visual Culture**, GPA: 3.61/4.5
+  - Major in **Computer Science & Engineering**, Minor in **Visual Culture**, GPA: 3.66/4.5
 - [2014.03 ~ 2017.02] Bojeong High School, Academic, Yongin-si, Gyeonggi-do.
 
 # Experience
