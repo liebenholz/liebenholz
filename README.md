@@ -47,7 +47,7 @@
 ## Activity
 ### Information Technology
 <!--
-- [2025.03 ~ 2025.06] **Intelligent Information Software Academy**, AI Education & Project, Korea University.
+- [2025.03 ~ 2025.06] **Intelligent Information Software Academy : 6th Program**, AI Education & Project, Korea University.
 -->
 - [2025.01 ~ 2025.02] **LG Aimers: 6th Program**, AI Education & Hackathon, LG AI Research.
 - [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024 Korea**, Google for Developers.
