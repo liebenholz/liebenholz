@@ -23,10 +23,6 @@
 
 <img src="https://img.shields.io/badge/Notion-FAFAFA?style=flat-square&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 
-### Video Edit & Design
-
-<img src="https://img.shields.io/badge/PremierePro-00005b?style=flat-square&logo=adobepremierepro&logoColor=#9999ff"> <img src="https://img.shields.io/badge/AfterEffects-00005b?style=flat-square&logo=adobeaftereffects&logoColor=#9999ff"> <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=#31A8FF">
-
 
 # Education
 - [2018.03 ~ 2025.02] B.S. Computer Science & Engineering, Kangwon National University.
