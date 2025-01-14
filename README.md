@@ -50,10 +50,10 @@
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
 
-### Short-term Activities
+### Short-term Projects
 - [2024.07] Graduate, **Co-week Academy 2024** @Keimyung University, 첨단분야 혁신융합대학사업(COSS)
-- [2024.06] YouTube PM Consultant, YouTube Management Pipeline Production, [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/channel/UC7-m6jQLinZQWIbwm9W-1iw), **StelLive Universe**.
-- [2024.Q1] YouTube PM Consultant, YouTube Management Pipeline Production, [**'아오쿠모 린 AOKUMO RIN'**](https://www.youtube.com/channel/UCQmcltnre6aG9SkDRYZqFIg), **StelLive Cliché**.
+- [2024.06] Consultant, YouTube Management Pipeline Production, [**'아카네 리제 AKANE LIZE'**](https://www.youtube.com/channel/UC7-m6jQLinZQWIbwm9W-1iw), **StelLive Universe**.
+- [2024.Q1] Consultant, YouTube Management Pipeline Production, [**'아오쿠모 린 AOKUMO RIN'**](https://www.youtube.com/channel/UCQmcltnre6aG9SkDRYZqFIg), **StelLive Cliché**.
 - [2023.07] Graduate, **Co-week Academy 2023** @Konkuk University, 첨단분야 혁신융합대학사업(COSS)
     
 
