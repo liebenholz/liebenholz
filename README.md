@@ -63,7 +63,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
  
 | Project Title | Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **Game Review Classification (2025)** | Making Classification Model with Fine-tuned Gemma whether Game Review Articles or Comments are Positive or Negative, Final Team Project, Korea University Intelligent Information Software Academy | Intelligent Information Software Academy | TBD |
+| **Game Review Classification (2025)** | Making Classification Model with Fine-tuned Gemma whether Game Review Articles or Comments are Positive or Negative, Final Team Project, Korea University Intelligent Information SW Academy | Intelligent Information SW Academy | TBD |
 | **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program, Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 
