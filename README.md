@@ -42,7 +42,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 
 ## Activity
 ### Information Technology
-- [2025.03 ~ 2025.06] **Intelligent Information Software Academy**, AI Education & Projects, Korea University.
+- [2025.03 ~ 2025.06] **Intelligence & Information Software Academy**, AI Education & Projects, Korea University.
 - [2025.01 ~ 2025.02] **LG Aimers**, AI Education(LMS) & Hackathon(DACON), LG AI Research.
 - [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024 Korea**, Google for Developers.
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
