@@ -4,7 +4,7 @@
 - [2014.03 ~ 2017.02] Natural Science, 보정고등학교(Bojeong High School).
 
 # Work Experience
-## IT Development & Production
+## IT Development & Programming
 - [2024.01 ~ 2024.02] Unreal Engine R&D Developer, Internship, **Pocket Memory Co.,Ltd.**
 
 ## Media Contents Design & Production
