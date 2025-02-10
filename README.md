@@ -39,7 +39,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 ### 📊 Data Analysis Competitions
 | Competition Title | Date | Description | Team | Result | Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| **[Prediction of successful pregnancy for infertile patients](https://dacon.io/competitions/official/236452/overview/description)** | 2025.02 | LG Aimers Online Hackathon | HASKY | 
+| **[Successful Pregnancy for Infertile Patients](https://dacon.io/competitions/official/236452/overview/description)** | 2025.02 | LG Aimers Online Hackathon | HASKY | 
 | **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | 2024.12 | Research Competition | SOLO | Top 10% 🥉 |
 | **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | 2024.09 | Research Competition | SOLO | Top 4% 🥈 |  
 
