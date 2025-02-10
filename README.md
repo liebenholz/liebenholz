@@ -14,7 +14,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 - [2018.07 ~ 2019.04] YouTube Video Editor, Game & Clip Highlights, **'카라멜YouTube'**, Former Creator of **Collab Asia Inc.**
 
 # Extra Curricular Activities
-## Training
+## Training & Clubs
 - [2025.03 ~ 2025.06] **Intelligence & Information Software Academy**, AI Education & Projects, Korea University.
 - [2025.01 ~ 2025.02] **LG Aimers**, AI Education(LMS) & Hackathon(DACON), LG AI Research.
 - [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024 Korea**, Google for Developers.
