@@ -37,10 +37,10 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 
 # Honors & Awards
 ### 📊 Data Analysis Competitions
-| Competition Title | Date | Description | Team | Result | Notes |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | 2024.12 | Kaggle Research Competition | SOLO | Top 10% 🥉 | |
-| **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | 2024.09 | Kaggle Research Competition | SOLO | Top 4% 🥈 |  |
+| Competition Title | Date | Team | Result | Notes |
+| :-: | :-: | :-: | :-: | :-: | 
+| **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | 2024.12 | SOLO | Top 10% 🥉 |
+| **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | 2024.09 | SOLO | Top 4% 🥈 |  
 
 # Skills & Other information
 🇰🇷 Native | 🇺🇸 Advanced (OPIc AL) | 🇯🇵 Intermediate
