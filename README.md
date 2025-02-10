@@ -43,7 +43,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 | **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | 2024.12 | Research Competition | SOLO | Top 10% 🥉 |
 | **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | 2024.09 | Research Competition | SOLO | Top 4% 🥈 |  
 
-# Skills & Other information
+# Skills
 🇰🇷 Native | 🇺🇸 Advanced (OPIc AL) | 🇯🇵 Intermediate
 
 <img src="https://img.shields.io/badge/C-512BD4?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
