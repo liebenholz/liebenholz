@@ -37,7 +37,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 | **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program, Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 # Honors & Awards
-### 📊 Data Analysis
+### 📊 Data Analysis Competitions
 | Competition Title | Date | Description | Team | Result | Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **UM - Game-Playing Strength of MCTS Variants** | 2024.12 | Kaggle Research Competition | SOLO | Top 10% 🥉 | [Kaggle](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) |
