@@ -41,7 +41,7 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 | Competition Title | Date | Description | Team | Result | Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **UM - Game-Playing Strength of MCTS Variants** | 2024.12 | Kaggle Research Competition | SOLO | Top 10% 🥉 | [Kaggle](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) |
-| **ISIC 2024 - Skin Cancer Detection with 3D-TBP** | 2024.12 | Kaggle Research Competition | SOLO | Top 4% 🥈 | [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge) |
+| **ISIC 2024 - Skin Cancer Detection with 3D-TBP** | 2024.09 | Kaggle Research Competition | SOLO | Top 4% 🥈 | [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge) |
 
 # Skills & Other information
 🇰🇷 Native | 🇺🇸 Advanced (OPIc AL) | 🇯🇵 Intermediate
