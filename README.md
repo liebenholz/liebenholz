@@ -38,10 +38,10 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 
 # Honors & Awards
 ### 📊 Data Analysis
-| Competition Title | Description | Achievement | Notes |
-| :-: | :-: | :-: | :-: |
-| **UM - Game-Playing Strength of MCTS Variants** |Predict which variants of Monte-Carlo Tree Search will perform well or poorly against each other in hundreds of board games, Kaggle Research Competition | 🥉158/1608 | [Kaggle](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) |
-| **ISIC 2024 - Skin Cancer Detection with 3D-TBP** | Identify cancers among skin lesions cropped from 3D total body photographs, Kaggle Research Competition | 🥈107/2739 | [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge) |
+| Competition Title | Description | Team | Result | Notes |
+| :-: | :-: | :-: | :-: | :-: |
+| **UM - Game-Playing Strength of MCTS Variants** | Predict which variants of Monte-Carlo Tree Search will perform well or poorly against each other in hundreds of board games, Kaggle Research Competition | SOLO | Top 10% 🥉 | [Kaggle](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) |
+| **ISIC 2024 - Skin Cancer Detection with 3D-TBP** | Identify cancers among skin lesions cropped from 3D total body photographs, Kaggle Research Competition | SOLO | Top 4% 🥈 | [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge) |
 
 # Skills & Other information
 🇰🇷 Native | 🇺🇸 Advanced (OPIc AL) | 🇯🇵 Intermediate
