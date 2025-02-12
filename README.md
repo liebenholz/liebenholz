@@ -41,7 +41,8 @@ More information is introduced on my [**Notion Site**](https://liebenholz.notion
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **[Successful Pregnancy for Infertile Patients](https://dacon.io/competitions/official/236452/overview/description)** | 2025.02 | LG Aimers Hackathon | HASKY | 
 | **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | 2024.12 | Research Competition | SOLO | Top 10% 🥉 |
-| **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | 2024.09 | Research Competition | SOLO | Top 4% 🥈 |  
+| **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | 2024.09 | Research Competition | SOLO | Top 4% 🥈 |
+| **[Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8)** | 2024.08 | Playground Series | Fire Coral | 9th of 2422 |
 
 # Skills
 🇰🇷 Native | 🇺🇸 Advanced (OPIc AL) | 🇯🇵 Intermediate
