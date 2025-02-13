@@ -8,7 +8,7 @@
 - [2024.01 ~ 2024.02] Unreal Engine R&D Developer, Internship, **Pocket Memory Co.,Ltd.**
 
 ## Media Contents Design & Production
-More information is introduced on my [**Notion Site**](https://liebenholz.notion.site/) for Koreans.
+More information introduced on my [**Notion Site**](https://liebenholz.notion.site/) for Koreans.
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 - [2018.07 ~ 2019.04] YouTube Video Editor, Game & Clip Highlights, **'카라멜YouTube'**, Former Creator of **Collab Asia Inc.**
