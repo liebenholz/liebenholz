@@ -28,7 +28,7 @@
 - [2014.03 ~ 2017.02] Natural Science, 보정고등학교(Bojeong High School).
 
 ------
-## Experience
+## Work Experience
 ### 🧑‍💻 IT Development & Programming
 - [2024.01 ~ 2024.02] Unreal Engine R&D Developer, Internship, **Pocket Memory Co.,Ltd.**
 
@@ -39,14 +39,17 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2018.07 ~ 2019.04] YouTube Video Editor, Game & Clip Highlights, **'카라멜YouTube'**, Former Creator of **Collab Asia Inc.**
 
 ------
-## Training & Clubs
+## Extracurricular Activities
+### 🧑‍🏫 Training Program
 - [2025.03 ~ 2025.06] **Intelligence & Information Software Academy**, AI Education & Projects, Korea University.
 - [2025.01 ~ 2025.02] **LG Aimers**, AI Education(LMS) & Hackathon(DACON), LG AI Research.
 - [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024 Korea**, Google for Developers.
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Developer Education Program**, 강원대학교 산학협력단(KUICF).
+
+### 📰 Clubs
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
 
-## Portfolio
+## Portfolios
 ### 🎮 Game Development
 | Project Title | Description | Role | Notes |
 | :-: | :-: | :-: | :-: |
