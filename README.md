@@ -74,7 +74,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 <!--| **[Successful Pregnancy for Infertile Patients](https://dacon.io/competitions/official/236452/overview/description)** | LG Aimers Hackathon | 2024.08 | HASKY | -->
 
 <!--
-### 🏆 Awards 
+### 🏆 Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
 | | | | |
