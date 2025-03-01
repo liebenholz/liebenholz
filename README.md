@@ -23,9 +23,10 @@
 
 <!-- 
 ## Certificates
-- [2025.09] **Structured Query Language Developer(SQLD)**, Korea Data Agency.
-- [2025.06] **Advanced Data Analytics Semi-Professional(ADsP)**, Korea Data Agency.
-- [2025.06] **Engineer Information Processing(정보처리기사)**, Human Resources Development Service of Korea.
+- [2025.09] **Structured Query Language Developer(SQLD)**, K-Data(Korea Data Agency).
+- [2025.06] **KT AICE(AI Cretificate for Everyone) Associate**, KT(Korea Telecom) & Korea Economic Daily.
+- [2025.06] **Advanced Data Analytics Semi-Professional(ADsP)**, K-Data(Korea Data Agency).
+- [2025.06] **Engineer Information Processing(정보처리기사)**, HRDK(Human Resources Development Service of Korea).
 -->
 
 ------
