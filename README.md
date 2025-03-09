@@ -72,7 +72,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | **[Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8)** | Kaggle Playground Series | 2024.08 | Fire Coral | Top 1% 🥇 |
 
 <!--
-### 🏆 Awards
+### 🏆 Software Developer Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
 | | | | |
