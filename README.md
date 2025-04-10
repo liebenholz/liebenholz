@@ -29,7 +29,7 @@
 <!-- 
 ## Certificates
 - [2025.06] **SQL Developer(SQLD)**, K-Data(Korea Data Agency).
-- [2025.06] **KT AICE(AI Cretificate for Everyone): Associate**, KT(Korea Telecom) & Korea Economic Daily.
+- [2025.06] **KT AICE(AI Cretificate for Everyone): Associate**, KT(Korea Telecom) & The Korea Economic Daily.
 - [2025.06] **Engineer Information Processing(정보처리기사)**, HRDK(Human Resources Development Service of Korea).
 -->
 
@@ -80,7 +80,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🏆 Software Developer Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
-| | | | |
+| Award | 25.04.25 | AI Education Assistant based on Persona of Historical Figure | The Korea Economic Daily |
 -->
 
 ------
