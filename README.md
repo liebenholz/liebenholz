@@ -80,7 +80,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🏆 Software Developer Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
-| Award | 25.04.25 | AI Education Assistant based on Persona of Historical Figure | The Korea Economic Daily |
+| Award | 25.04.25 | AI Education Assistant based on Persona of Historical Figure, INISW Idea Competition | The Korea Economic Daily |
 -->
 
 ------
