@@ -82,7 +82,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🏆 Software Developer Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
-| Excellence Award (우수상) | 25.04.25 | AI Education Assistant based on Persona of Historical Figure, INISW Idea Competition | The Korea Economic Daily |
+| Excellence Award | 25.04.25 | AI-powered Class Perperation System for Teachers based on Persona of Historical Figure, INISW Idea Competition | The Korea Economic Daily |
 
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
