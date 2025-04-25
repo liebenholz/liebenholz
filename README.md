@@ -82,7 +82,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🏆 Software Developer Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
-| Excellence Award | 2025.04.25 | AI-powered Class Preparation System for Teachers - Generating Storytelling Contents with Persona of Historical Figures, INISW Idea Competition | The Korea Economic Daily |
+| Excellence Award | 2025.04.25 | AI-based Class Prep. Assisting System for Teachers - Generating Storytelling Contents with Persona of Historical Figures, INISW Idea Competition | The Korea Economic Daily |
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liebenholz&layout=compact&theme=gruvbox&size_weight=0.35&count_weight=0.65)
