@@ -82,7 +82,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🏆 Software Developer Awards
 | Competition Title | Description | Date | Award/Result |
 | :-: | :-: | :-: | :-: |
-| **INISW Idea Competition, The Korea Economic Daily** | AI-based Class Prep. Assisting System for Teachers - Generating Storytelling Contents with Persona of Historical Figures | 2025.04 | Excellence Award |
+| **The Korea Economic Daily INISW Idea Competition** | AI-based Class Prep. Assisting System for Teachers - Generating Storytelling Contents with Persona of Historical Figures | 2025.04 | Excellence Award |
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liebenholz&layout=compact&theme=gruvbox&size_weight=0.35&count_weight=0.65)
