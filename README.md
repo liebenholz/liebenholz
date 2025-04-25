@@ -80,7 +80,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 
 
 ### 🏆 Software Developer Awards
-| Competition Title | Description | Date | Award/Result |
+| Competition Title | Project Description | Date | Award/Result |
 | :-: | :-: | :-: | :-: |
 | **The Korea Economic Daily INISW Idea Competition** | AI-based Class Prep. Assisting System for Teachers - Generating Storytelling Contents with Persona of Historical Figures | 2025.04 | Excellence Award |
 ------
