@@ -78,12 +78,11 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | Kaggle Research Competition | 2024.09 | SOLO | Top 4% 🥈 |
 | **[Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8)** | Kaggle Playground Series | 2024.08 | Fire Coral | Top 1% 🥇 |
 
-<!--
+
 ### 🏆 Software Developer Awards
 | Prize | Date | Description | Organization |
 | :-: | :-: | :-: | :-: |
-| Award | 25.04.25 | AI Education Assistant based on Persona of Historical Figure, INISW Idea Competition | The Korea Economic Daily |
--->
+| Excellence Award(우수상) | 25.04.25 | AI Education Assistant based on Persona of Historical Figure, INISW Idea Competition | The Korea Economic Daily |
 
 ------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liebenholz98)](https://solved.ac/liebenholz98)
