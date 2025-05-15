@@ -28,12 +28,14 @@
   - GPA(Cumulative): 3.63/4.5 (91.3/100)
 - [2014.03 ~ 2017.02] Natural Science, 보정고등학교(Bojeong High School).
 
+
+## Certificate
 <!-- 
-## Certificates
-- [2025.09] **Engineer Information Processing(정보처리기사)**, HRDK(Human Resources Development Service of Korea).
-- [2025.06] **SQL Developer(SQLD)**, K-Data(Korea Data Agency).
+- [2025.09] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRDK).
+- [2025.06] **SQL Developer(SQLD)**, 한국데이터산업진흥원(K-DATA).
 - [2025.06] **KT AICE(AI Cretificate for Everyone): Associate**, KT(Korea Telecom) & The Korea Economic Daily.
 -->
+- [2022.10] **Test Of Practical Competency in IT(TOPCIT)** Lv.2, 정보통신기획평가원(IITP).
 
 ------
 ## Work Experience
