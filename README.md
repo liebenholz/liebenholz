@@ -81,8 +81,8 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🏆 Software Developer Awards
 | Competition Title | Project Description | Date | Award |
 | :-: | :-: | :-: | :-: |
-| **Korea University INISW Project Competition** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering | 2025.06 | TBD |
-| **The Korea Economic Daily INISW Idea Competition** | AI-based Class Preparation Assistance System for Teachers - Storytelling Contents with Persona of Historical Figures | 2025.04 | Excellence Award |
+| **Korea University INISW Project Competition** | AI-based Korean History Class Preparation Assisting System for Teachers - Generating Storytelling Contents with Generative AI; Metadata-based Modular RAG, LangChain, and Prompt Engineering | 2025.06 | TBD |
+| **The Korea Economic Daily INISW Idea Competition** | AI-based Class Preparation Assisting System for Teachers - Storytelling Contents with Persona of Historical Figures | 2025.04 | Excellence Award |
 <!--
 | **Korea University INISW Project Competition** | Class Preparation Assistant for Teachers(Middle School Korean History) - Generating Storytelling Contents with Persona of Historical Figures: Metadata-based RAG, Korean Fine-tuned LLM, and Prompt Engineering | 2025.06 | Excellence Award | 
 -->
