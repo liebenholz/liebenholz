@@ -59,14 +59,14 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🎮 Game Development
 | Project Title | Project Description | Role | Notes |
 | :-: | :-: | :-: | :-: |
-| **Squary day(2025)** | Casual 3D Quarter-view Single Player RPG with Action Adventure Storyline, Unity6 Team Project | Producer, Game Designer, PM, Technical Assistant | TBD |
+| **Squary Day (2025)** | Casual 3D Quarter-view Single Player RPG with Action Adventure Storyline, Unity6 Team Project | Producer, Game Designer, PM, Technical Assistant | TBD |
 | **Era of the Dark (2024)** | Soulslike Single Player Action RPG Demonstration, Made by Unreal Engine, Capstone Design Project | Team Leader, Director, PM, System Developer | [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
 ### 📚 AI Integrated Service Development
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **T-PREP(2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th/t-prep) |
+| **T-PREP (2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th/t-prep) |
 | **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program. Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 ## Honors & Awards
