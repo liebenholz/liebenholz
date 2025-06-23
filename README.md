@@ -66,7 +66,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 📚 AI Integrated Service Development
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **T-PREP (2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th/t-prep) |
+| **T-PREP (2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th) [Keynote](https://www.youtube.com/watch?v=HlQ_gdjHKdA) |
 | **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program. Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 ## Honors & Awards
