@@ -60,7 +60,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | Project Title | Project Description | Role | Notes |
 | :-: | :-: | :-: | :-: |
 | **Squary Day (2025)** | Casual 3D Quarter-view Single Player RPG with Action Adventure Storyline, Unity6 Team Project | Producer, Game Designer, PM, Technical Assistant | TBD |
-| **Era of the Dark (2024)** | Soulslike Single Player Action RPG Demonstration, Made by Unreal Engine, Capstone Design Project | Team Leader, Director, PM, System Developer | [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
+| **Era of the Dark (2024)** | Soulslike Single Player Action RPG Demonstration, Made by Unreal Engine, Capstone Design Project | Team Leader, Director, PM, System Developer | [GitHub Repo]() [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E?si=TrHAkyZoq9MN_EVd) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
 ### 📚 AI Integrated Service Development
