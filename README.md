@@ -52,8 +52,9 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2024.07 ~ 2024.10] **Google Machine Learning Bootcamp 2024 Korea**, Google for Developers.
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Bootcamp**, 강원대학교 산학협력단(KUICF).
 
-### 📰 Academic Club
-- [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Developer's Club, Kangwon National University.
+### 📰 Club Activities
+- [2025.07 ~ --ing--] **ISEKAI Universe**, Amateur Indie Game Developer's Club.
+- [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Dev Academic Club, Kangwon National University.
 
 ## Portfolios
 ### 🎮 Game Development
