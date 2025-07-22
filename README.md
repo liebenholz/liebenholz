@@ -38,7 +38,10 @@
 ------
 ## Work Experience
 ### 🧑‍💻 IT Development & Programming
-- [2024.01 ~ 2024.02] Unreal Engine R&D Developer, Internship, **Pocket Memory Co.,Ltd.**
+<!--
+- [2025.08 ~   ing  ] Test Engineer(TQA) Internship, **NHN Service Corp.**
+-->
+- [2024.01 ~ 2024.02] Unreal Engine R&D Developer Internship, **Pocket Memory Co.,Ltd.**
 
 ### 🎬 Media Contents Design & Production
 More information introduced on my [**Notion Site**](https://liebenholz.notion.site/main) for Koreans.
