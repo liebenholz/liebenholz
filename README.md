@@ -37,7 +37,7 @@
 -->
 ------
 ## Work Experience
-### 🧑‍💻 IT Development & Programming
+### 🧑‍💻 IT Industry
 <!--
 - [2025.08 ~   ing  ] Test Engineer(TQA) Internship, **NHN Service Corp.**
 -->
