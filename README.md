@@ -38,7 +38,7 @@
 ------
 ## Work Experience
 ### 🧑‍💻 IT Industry
-- [2025.08 ~   ing  ] Test Engineer(TQA) Internship, **NHN Service Corp.**
+- [2025.08 ~   ing  ] Test Engineer Internship, Mobile Game QA, **NHN Service Corp.**
 - [2024.01 ~ 2024.02] Unreal Engine R&D Developer Internship, **Pocket Memory Co.,Ltd.**
 
 ### 🎬 Media Contents Design & Production
