@@ -62,7 +62,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | Project Title | Project Description | Role | Notes |
 | :-: | :-: | :-: | :-: |
 | **Project CW (2026)** | Open World Adventure Game with Stylized Graphics, ISEKAI Unreal Engine Team Project | Director, Game Designer, PM, System Developer | TBD |
-| **Project DS (2026)** | Vertical Scroll Running Action Shooter Game with Animatic Illustration, ISEKAI Unity Team Project | Director, Game Designer, PM, System Developer | TBD |
+| **Project DK (2026)** | Vertical Scroll Running Action Shooter Game with Animatic Illustration, ISEKAI Unity Team Project | Director, Game Designer, PM, System Developer | TBD |
 | [**Era of the Dark (2024)**](https://youtu.be/rarDWn-Mdrc) | Soulslike Single Player Action RPG Demonstration, Unreal Engine Capstone Design Project | Team Leader, Director, PM, System Developer | [GitHub Repo](https://github.com/liebenholz/EOTD) [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E) | Listen Server based Multi Player Action RPG with Arena PVP Contents, K-DT Unreal Engine Team Project | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 | **The Range (2023)** | Single Player FPS Demonstration with Shooting Practice System, K-DT Unreal Engine Individual Project | System Developer |  |
