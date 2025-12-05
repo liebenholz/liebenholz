@@ -27,11 +27,12 @@
   - Major in **Computer Science & Engineering**, Minor in **Visual Culture**
 - [2014.03 ~ 2017.02] Natural Science, 보정고등학교(Bojeong High School).
 
-<!-- 
+
 ## Certificate
+- [2025.12] **SQL Developer(SQLD)**, 한국데이터산업진흥원(K-DATA).
+<!-- 
 - [2025.12] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRDK).
 - [2025.09] **ISTQB CTFL(Certified Tester Foundation Level)**, ISTQB(International Software Testing Qualification Board).
-- [2025.06] **SQL Developer(SQLD)**, 한국데이터산업진흥원(K-DATA).
 - [2025.06] **KT AICE(AI Cretificate for Everyone) Associate**, KT(Korea Telecom) & The Korea Economic Daily. (Exp. 2028.06)
 -->
 ------
