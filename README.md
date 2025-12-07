@@ -36,7 +36,6 @@
 - [2026.05] **KT AICE(AI Cretificate for Everyone) Associate**, KT(Korea Telecom) & The Korea Economic Daily. (Exp. 2029.05)
 - [2026.06] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRDK).
 - [2026.07] **Engineer Big Data Analysis(빅데이터분석기사)**, 한국데이터산업진흥원(K-DATA).
-- [2026.10] **Engineer Computer System(컴퓨터시스템기사)**, 한국산업인력공단(HRDK).
 -->
 ------
 ## Work Experience
