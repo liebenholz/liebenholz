@@ -43,7 +43,6 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 <!-- 
 - [2026.02] **ISTQB CTFL(Certified Tester Foundation Level)**, ISTQB(International Software Testing Qualification Board).
 - [2026.03] **Advanced Data Analytics Semi-Professional (ADsP)**, 한국데이터산업진흥원(K-DATA).
-- [2026.05] **KT AICE(AI Cretificate for Everyone) Associate**, KT(Korea Telecom) & The Korea Economic Daily. (Exp. 2029.05)
 - [2026.06] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRDK).
 - [2026.07] **Engineer Big Data Analysis(빅데이터분석기사)**, 한국데이터산업진흥원(K-DATA).
 -->
@@ -84,7 +83,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | :-: | :-: | :-: | :-: | :-: |
 | **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | Kaggle Research Competition | 2024.12 | - | Top 10% 🥉 |
 | **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | Kaggle Research Competition | 2024.09 | - | Top 4% 🥈 |
-| **[Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8)** | Kaggle Playground Series | 2024.08 | Fire Coral | Top 0.5% 🥇 |
+| **[Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8)** | Kaggle Playground Series | 2024.08 | Fire Coral | Top 1% 🥇 |
 
 
 ### 🏆 Software Developer Awards
