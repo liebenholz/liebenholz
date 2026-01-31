@@ -81,6 +81,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 📊 Data Analysis Competitions
 | Competition Title | Description | Date | Team | Result |
 | :-: | :-: | :-: | :-: | :-: |
+| **[CSIRO - Image2Biomass Prediction](https://www.kaggle.com/competitions/csiro-biomass)** | Kaggle Research Competition | 2026.01 | - | Top 10% 🥉 |
 | **[Predicting Loan Payback](https://www.kaggle.com/competitions/playground-series-s5e11)** | Kaggle Playground Series | 2025.11 | - | Top 3% 🥈 |
 | **[UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants)** | Kaggle Research Competition | 2024.12 | - | Top 10% 🥉 |
 | **[ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge)** | Kaggle Research Competition | 2024.09 | - | Top 4% 🥈 |
