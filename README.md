@@ -45,6 +45,18 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2026.05] **ISTQB CTFL(Certified Tester Foundation Level)**, ISTQB(International Software Testing Qualification Board).
 - [2026.06] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRDK).
 -->
+
+<details>
+    <summary>Toggle down for online cretificates:</summary>
+
+- [2026.02] **Reset API (Intermediate) Certificate**, Hackerrank.
+- [2026.02] **SQL (Advanced) Certificate**, Hackerrank.
+- [2024.11] **Deep Learning Specialization**, DeepLearning.AI & Stanford University, via Coursera.
+- [2024.08] **Google Project Management Specialization**, Google, via Coursera.
+- [2024.07] **Deep Learning Specialization**, DeepLearning.AI, via Coursera.
+
+</details>
+
 ------
 ## Extracurricular Activities
 ### 🧑‍🏫 Training Program
