@@ -51,6 +51,8 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 <details>
     <summary>Toggle down for online cretificates:</summary>
 
+- [2026.03] **Claude Code in Action**, Anthropic Education.
+- [2026.03] **Claude 101**, Anthropic Education.
 - [2026.02] **Reset API (Intermediate) Certificate**, Hackerrank.
 - [2026.02] **SQL (Advanced) Certificate**, Hackerrank.
 - [2024.11] **Deep Learning Specialization**, DeepLearning.AI & Stanford University, via Coursera.
