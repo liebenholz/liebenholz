@@ -83,7 +83,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🎮 Game Development: Personal Project
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **The Range(2023)** | UE5: Single Player FPS Demonstration with Shooting Practice System | K-DT UE Bootcamp | WIP |
+| **The Range(2023)** | UE5: Single Player FPS Demonstration with Shooting Practice System | K-DT UE Bootcamp | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
 <!--
 | **Project CW (2026)** | UE5: Open World Adventure Game with Stylized Graphics | ISEKAI Universe | Director, Game Designer, PM, System Developer | TBD |
 
