@@ -77,7 +77,6 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🎮 Game Development: Team Project
 | Project Title | Project Description | Organization | Role | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| **Project CW (2026)** | UE5: Open World Adventure Game with Stylized Graphics | ISEKAI Universe | Director, Game Designer, PM, System Developer | TBD |
 | [**Era of the Dark (2024)**](https://youtu.be/rarDWn-Mdrc) | UE5: Soulslike Single Player Action RPG | Kangwon Nat'l Univ. Capstone Design Project | Team Leader, Director, PM, System Developer | [GitHub Repo](https://github.com/liebenholz/EOTD) [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E) | UE5: Listen Server based MOBA - Multi Player Action RPG with Arena PVP Contents | K-DT UE Bootcamp | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
@@ -86,6 +85,8 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | :-: | :-: | :-: | :-: |
 | **The Range(2023)** | UE5: Single Player FPS Demonstration with Shooting Practice System | K-DT UE Bootcamp | WIP |
 <!--
+| **Project CW (2026)** | UE5: Open World Adventure Game with Stylized Graphics | ISEKAI Universe | Director, Game Designer, PM, System Developer | TBD |
+
 | **Project KC (2027)** | Co-op Cooking Simulator, ISEKAI Unity Team Project | Director, Game Designer, PM, Game Developer | TBD |
 | **Project DK (2026)** | Vertical Scroll Running Action Shooter Game with Anime-style Illustration, ISEKAI Unity Team Project | Director, Game Designer, PM, System Developer | TBD |
 | **Squary Knight (2025)** | Roguelite Bullet Hell Shooter with Pixelated Graphics, ISEKAI Unity Team Project | Director, Game Designer, PM, Technical Assistant | TBD |
