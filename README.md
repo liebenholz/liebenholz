@@ -29,11 +29,13 @@
 - [2025.08 ~   ing  ] Test Engineer Internship, Mobile Game QA, **NHN Service Corp.**
 - [2024.01 ~ 2024.02] Unreal Engine R&D Developer Internship, **Pocket Memory Co.,Ltd.**
 
+<!--
 ### 🎬 Media Contents Design & Production
 More information introduced on my [**Notion Site**](https://liebenholz.notion.site/main) for Koreans.
 - [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
 - [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
 - [2018.07 ~ 2019.04] YouTube Video Editor, Game & Clip Highlights, **'카라멜YouTube'**, Ex-**Collab Korea Inc.**
+-->
 ------
 ## Education
 - [2018.03 ~ 2025.02] **B.S. Computer Science & Engineering**, Kangwon National University.
