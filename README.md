@@ -42,7 +42,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 
 
 ## Certificate
-- [2026.06] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRDK, Human Resources Development Service of Korea).
+- [2026.06] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRD Korea).
 - [2026.05] **ISTQB CTFL(Foundation Level)**, ISTQB(International Software Testing Qualifications Board).
 - [2025.12] **SQL Developer(SQLD)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency). 
 
