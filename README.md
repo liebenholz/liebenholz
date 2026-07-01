@@ -56,13 +56,13 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 <details>
     <summary>Toggle down for online cretificates:</summary>
 
-- [2026.03] **Claude Code in Action**, Anthropic Academy.
-- [2026.03] **Claude 101**, Anthropic Academy.
-- [2026.02] **Reset API (Intermediate) Certificate**, Hackerrank.
-- [2026.02] **SQL (Advanced) Certificate**, Hackerrank.
-- [2024.11] **Machine Learning Specialization**, DeepLearning.AI & Stanford University, via Coursera.
-- [2024.08] **Google Project Management Specialization**, Google, via Coursera.
-- [2024.07] **Deep Learning Specialization**, DeepLearning.AI, via Coursera.
+- [2026.03] [**Claude Code in Action**](https://verify.skilljar.com/c/5yxqw5wdu925), Anthropic Academy.
+- [2026.03] [**Claude 101**](https://verify.skilljar.com/c/86rqnjidzght), Anthropic Academy.
+- [2026.02] [**Reset API (Intermediate) Certificate**](https://www.hackerrank.com/certificates/1fa97e9d0d95), Hackerrank.
+- [2026.02] [**SQL (Advanced) Certificate**](https://www.hackerrank.com/certificates/8cd9b5443a19), Hackerrank.
+- [2024.11] [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/KCZ9AHLZQYPR), DeepLearning.AI & Stanford University, via Coursera.
+- [2024.08] [**Google Project Management Specialization**](https://www.coursera.org/account/accomplishments/specialization/KCZ9AHLZQYPR), Google, via Coursera.
+- [2024.07] [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/78P342WRMASD), DeepLearning.AI, via Coursera.
 
 </details>
 
