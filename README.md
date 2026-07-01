@@ -47,7 +47,9 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2025.12] **SQL Developer(SQLD)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency). 
 
 <!--
+- [2026.07] **Certified Software Test Specialist Foundation Level(CSTS FL)**, 한국정보통신기술협회(TTA).
 - [2026.08] **Advanced Data Analytics Semi-Professional(ADsP)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency).
+- [2026.12] **Big Data Analysis Engineer(빅데이터분석기사)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency).
 -->
 
 <details>
@@ -57,7 +59,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2026.03] **Claude 101**, Anthropic Academy.
 - [2026.02] **Reset API (Intermediate) Certificate**, Hackerrank.
 - [2026.02] **SQL (Advanced) Certificate**, Hackerrank.
-- [2024.11] **Deep Learning Specialization**, DeepLearning.AI & Stanford University, via Coursera.
+- [2024.11] **Machine Learning Specialization**, DeepLearning.AI & Stanford University, via Coursera.
 - [2024.08] **Google Project Management Specialization**, Google, via Coursera.
 - [2024.07] **Deep Learning Specialization**, DeepLearning.AI, via Coursera.
 
