@@ -58,7 +58,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 
 - [2026.03] [**Claude Code in Action**](https://verify.skilljar.com/c/5yxqw5wdu925), Anthropic Academy.
 - [2026.03] [**Claude 101**](https://verify.skilljar.com/c/86rqnjidzght), Anthropic Academy.
-- [2026.02] [**Reset API (Intermediate) Certificate**](https://www.hackerrank.com/certificates/1fa97e9d0d95), Hackerrank.
+- [2026.02] [**Rest API (Intermediate) Certificate**](https://www.hackerrank.com/certificates/1fa97e9d0d95), Hackerrank.
 - [2026.02] [**SQL (Advanced) Certificate**](https://www.hackerrank.com/certificates/8cd9b5443a19), Hackerrank.
 - [2024.11] [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/KCZ9AHLZQYPR), DeepLearning.AI & Stanford University, via Coursera.
 - [2024.08] [**Google Project Management Specialization**](https://www.coursera.org/account/accomplishments/specialization/KCZ9AHLZQYPR), Google, via Coursera.
