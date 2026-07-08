@@ -78,6 +78,13 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Dev Academic Club, Kangwon National University.
 
 ## Portfolios
+### 📚 Service Dev.
+| Project Title | Project Description | Organization | Notes |
+| :-: | :-: | :-: | :-: |
+| **Ohaasa Discord Bot (2026)** | Daily Horoscope based on from 'おは朝星占い' of Asahi Television, Pushing Ranks in Specific time and Messaging Details of Horoscopes for Zodiac Sign which User Requested in Discord Channel. | ISEKAI Universe | [GitHub](https://github.com/liebenholz/ohaasa-daily-discord) [Notion](https://liebenholz.notion.site/isekai-ohaasa-discord-bot-qaa) |
+| **T-PREP (2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th) [Keynote](https://www.youtube.com/watch?v=HlQ_gdjHKdA) |
+| **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program. Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
+
 ### 🎮 Team Game Dev.
 | Project Title | Project Description | Organization | Role | Notes |
 | :-: | :-: | :-: | :-: | :-: |
@@ -96,13 +103,6 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 | **Project DK (2026)** | Vertical Scroll Running Action Shooter Game with Anime-style Illustration, ISEKAI Unity Team Project | Director, Game Designer, PM, System Developer | TBD |
 | **Squary Knight (2025)** | Roguelite Bullet Hell Shooter with Pixelated Graphics, ISEKAI Unity Team Project | Director, Game Designer, PM, Technical Assistant | TBD |
 -->
-
-### 📚 Service Dev.
-| Project Title | Project Description | Organization | Notes |
-| :-: | :-: | :-: | :-: |
-| **Ohaasa Discord Bot (2026)** | Daily Horoscope based on from 'おは朝星占い' of Asahi Television, Pushing Ranks in Specific time and Messaging Details of Horoscopes for Zodiac Sign which User Requested in Discord Channel. | ISEKAI Universe | [GitHub](https://github.com/liebenholz/ohaasa-daily-discord) [Notion](https://liebenholz.notion.site/isekai-ohaasa-discord-bot-qaa) |
-| **T-PREP (2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th) [Keynote](https://www.youtube.com/watch?v=HlQ_gdjHKdA) |
-| **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program. Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 ## Honors & Awards
 ### 📊 Data Analysis Competitions
