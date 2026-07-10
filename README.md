@@ -55,7 +55,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 -->
 
 <details>
-    <summary>Toggle down for online cretificates:</summary>
+    <summary>Toggle down for online certificate:</summary>
 
 - [2026.03] [**Claude Code in Action**](https://verify.skilljar.com/c/5yxqw5wdu925), Anthropic Academy.
 - [2026.03] [**Claude 101**](https://verify.skilljar.com/c/86rqnjidzght), Anthropic Academy.
