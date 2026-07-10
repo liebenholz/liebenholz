@@ -49,8 +49,9 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 <!--
 - [2026.07] **Certified Software Test Specialist Foundation Level(CSTS FL)**, 한국정보통신기술협회(TTA).
 - [2026.11] **Advanced Data Analytics Semi-Professional(ADsP)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency).
-- [2026.12] **Big Data Analysis Engineer(빅데이터분석기사)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency).
+- [2027.02] **AWS Certified Solutions Architect - Associate(AWS SAA-C03)**, Amazon Web Service(AWS).
 - [2027.05] **Computer Specialist in Spreadsheet & Database Lv.1(컴퓨터활용능력 1급)**, 대한상공회의소.
+- [2027.07] **Big Data Analysis Engineer(빅데이터분석기사)**, 한국데이터산업진흥원(K-DATA, Korea Data Agency).
 -->
 
 <details>
