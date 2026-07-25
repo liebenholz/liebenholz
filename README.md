@@ -1,3 +1,16 @@
+## Work Experience
+### 🧑‍💻 Software & IT Service
+- [2025.08 ~   ing  ] Test Engineer, Mobile Game QA, **NHN Service Corp.**
+- [2024.01 ~ 2024.02] Unreal Engine R&D Developer Internship, **Pocket Memory Co.,Ltd.**
+
+<!--
+### 🎬 Media Contents Design & Production
+More information introduced on my [**Notion Site**](https://liebenholz.notion.site/main) for Koreans.
+- [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
+- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
+- [2018.07 ~ 2019.04] YouTube Video Editor, Game & Clip Highlights, **'카라멜YouTube'**, Ex-**Collab Korea Inc.**
+-->
+
 ## Skills
 🇰🇷 Native | 🇺🇸 Advanced(OPIc AL) | 🇯🇵 Basic
 
@@ -21,25 +34,6 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white">
 -->
-
-## Work Experience
-### 🧑‍💻 Software & IT Service
-- [2025.08 ~   ing  ] Test Engineer, Mobile Game QA, **NHN Service Corp.**
-- [2024.01 ~ 2024.02] Unreal Engine R&D Developer Internship, **Pocket Memory Co.,Ltd.**
-
-<!--
-### 🎬 Media Contents Design & Production
-More information introduced on my [**Notion Site**](https://liebenholz.notion.site/main) for Koreans.
-- [2022.09 ~ 2023.12] YouTube Video Editor, Clip Highlights, [**'아이네 INE'**](https://www.youtube.com/@INE_) @ISEGYE IDOL, **Parable Entertainment Inc.**
-- [2019.08 ~ 2020.12] YouTube Video Editor, Game & Clip Highlights, [**'코렛트YouTube'**](https://www.youtube.com/@Collet11), **Sandbox Network Inc.**
-- [2018.07 ~ 2019.04] YouTube Video Editor, Game & Clip Highlights, **'카라멜YouTube'**, Ex-**Collab Korea Inc.**
--->
-------
-## Education
-- [2018.03 ~ 2025.02] **B.S. Computer Science & Engineering**, Kangwon National University.
-  - Major in **Computer Science & Engineering**, Minor in **Visual Culture**
-- [2014.03 ~ 2017.02] Natural Science, 보정고등학교(Bojeong High School).
-
 
 ## Certificate
 - [2026.06] **Engineer Information Processing(정보처리기사)**, 한국산업인력공단(HRD Korea).
@@ -68,6 +62,11 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 </details>
 
 ------
+## Education
+- [2018.03 ~ 2025.02] **B.S. Computer Science & Engineering**, Kangwon National University.
+  - Major in **Computer Science & Engineering**, Minor in **Visual Culture**
+- [2014.03 ~ 2017.02] Natural Science, 보정고등학교(Bojeong High School).
+
 ## Extracurricular Activities
 ### 🧑‍🏫 Training Program
 - [2025.03 ~ 2025.06] **Intelligence & Information Software(INISW) Academy**, Korea University.
@@ -78,6 +77,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2025.07 ~   ing  ] **ISEKAI Universe**, Amateur Indie Game Developer's Club.
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Dev Academic Club, Kangwon National University.
 
+------
 ## Portfolios
 ### 📚 Service Dev.
 | Project Title | Project Description | Organization | Notes |
