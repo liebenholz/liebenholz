@@ -88,18 +88,19 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🎮 Team Game Dev.
 | Project Title | Project Description | Organization | Role | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| **Project CW (TBD)** | Unreal5: Open World Adventure Game with Stylized Graphics | ISEKAI Universe | Director, Game Designer, PM, System Developer | TBD |
-| [**Era of the Dark (2024)**](https://youtu.be/rarDWn-Mdrc) | Unreal5: Soulslike Single Player Action RPG | Kangwon Nat'l Univ. Capstone Design Project | Team Leader, Director, PM, System Developer | [GitHub Repo](https://github.com/liebenholz/EOTD) [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
-| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E) | Unreal5: Listen Server based Multi Player MOBA | K-DT Unreal Engine Bootcamp | Team Leader, Director, PM, Technical Assistant | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
+| **Project RA (WIP)** | `Unity6` Casual Mobile Puzzle Battle Game | ISEKAI Universe | `Director` `Game Design` `PM` `Client Dev` `Server Dev` | TBD |
+| [**Era of the Dark (2024)**](https://youtu.be/rarDWn-Mdrc) | `Unreal5` Soulslike Single Player Action RPG | Kangwon Nat'l Univ. Capstone Design Project | `Team Leader` `Director` `PM` `Client Dev` | [GitHub Repo](https://github.com/liebenholz/EOTD) [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
+| [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E) | `Unreal5` Listen Server based Multi Player MOBA | K-DT Unreal Engine Bootcamp | `Director` `Game Design` `PM` `Tech Assistant` | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
 ### 🎮 Personal Game Dev.
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **The Range (2023)** | Unreal5: Single Player FPS Demonstration with Shooting Practice System | K-DT Unreal Engine Bootcamp | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
+| **The Range (2023)** | `Unreal5` Single Player FPS Demo with Shooting Practice System | K-DT Unreal Engine Bootcamp | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
 <!--
-| **Project WM (WIP)** | Unity: Single Player Adventure Game with Non-linear Story Branch System | - | TBD |
+| **Project CW (TBD)** | `Unreal5` Open World Adventure Game with Stylized Graphics | ISEKAI Universe | `Director` `Game Design` `PM` `Client Dev` | TBD |
 
-| **Project KC (2027)** | Co-op Cooking Simulator, ISEKAI Unity Team Project | Director, Game Designer, PM, Game Developer | TBD |
+| **Project WM (WIP)** | Unity: Single Player Adventure Game with Non-linear Story Branch System | - | TBD |
+| **Project KC (2027)** | `Unity6` Co-op Cooking Simulator | ISEKAI Unity Team Project | Director, Game Design, PM, Client Dev., Server Dev.  | TBD |
 | **Project DK (2026)** | Vertical Scroll Running Action Shooter Game with Anime-style Illustration, ISEKAI Unity Team Project | Director, Game Designer, PM, System Developer | TBD |
 | **Squary Knight (2025)** | Roguelite Bullet Hell Shooter with Pixelated Graphics, ISEKAI Unity Team Project | Director, Game Designer, PM, Technical Assistant | TBD |
 -->
