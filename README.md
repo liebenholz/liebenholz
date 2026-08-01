@@ -95,7 +95,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🎮 Personal Game Dev.
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| **The Range (2023)** | `Unreal5` Single Player FPS Demo with Shooting Practice System | K-DT Unreal Engine Bootcamp | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
+| **The Range (2023)** | `Unreal5` FPS Demo with Shooting Practice System | K-DT Unreal Engine Bootcamp | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
 <!--
 | **Project CW (TBD)** | `Unreal5` Open World Adventure Game with Stylized Graphics | ISEKAI Universe | `Director` `Game Design` `PM` `Client Dev` | TBD |
 
