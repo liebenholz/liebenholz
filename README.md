@@ -75,7 +75,6 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 - [2023.08 ~ 2024.02] **K-Digital Training Unreal Engine Bootcamp**, 강원대학교 산학협력단(KUICF).
 
 ### 📰 Club Activities
-- [2025.07 ~   ing  ] **ISEKAI Universe**, Amateur Indie Game Developer's Club.
 - [2018.03 ~ 2019.12] **Blending**, CS Study Group & Game Dev Academic Club, Kangwon National University.
 
 ------
@@ -83,20 +82,20 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 📚 Service Dev.
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
-| [**Ohaasa Discord Bot (2026)**](https://liebenholz.github.io/ohaasa-daily-discord/) | Daily Horoscope based on from 'おは朝星占い' of Asahi Television, Pushing Ranks in Specific time and Messaging Details of Horoscopes for Zodiac Sign which User Requested in Discord Channel. | ISEKAI Universe | [GitHub](https://github.com/liebenholz/ohaasa-daily-discord) [Notion](https://liebenholz.notion.site/isekai-ohaasa-discord-bot-qaa) |
+| [**Ohaasa Discord Bot (2026)**](https://liebenholz.github.io/ohaasa-daily-discord/) | Daily Horoscope based on from 'おは朝星占い' of Asahi Television, Pushing Ranks in Specific time and Messaging Details of Horoscopes for Zodiac Sign which User Requested in Discord Channel. | - | [GitHub](https://github.com/liebenholz/ohaasa-daily-discord) [Notion](https://liebenholz.notion.site/isekai-ohaasa-discord-bot-qaa) |
 | **T-PREP (2025)** | AI-based Korean History Class Preparation Assisting System for School Teachers, Metadata-based Modular RAG, LangChain, and Prompt Engineering. INISW Academy Team Project | Korea University | [GitHub](https://github.com/INISW-6th) [Keynote](https://www.youtube.com/watch?v=HlQ_gdjHKdA) |
 | **Intelligent Live Streaming Chat Bot (2024)** | Making Test Version of Live Stream Chatbot with Fine-tuned Gemma as AfreecaTV(SOOP) Extension Program. Gemma Sprint Project, Google Machine Learning Bootcamp | Google for Developers Korea | [GitHub](https://github.com/liebenholz/GMLB2024) [Tutorial](https://www.youtube.com/watch?v=XMNsd_5_gYA) |
 
 ### 🎮 Team Game Dev.
 | Project Title | Project Description | Organization | Role | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| **Project RA (WIP)** | `Unity6` Casual Mobile Puzzle Battle Game | ISEKAI Universe | `Director` `Game Design` `PM` `Client Dev` `Server Dev` | TBD |
 | [**Era of the Dark (2024)**](https://youtu.be/rarDWn-Mdrc) | `Unreal5` Soulslike Single Player Action RPG | Kangwon Nat'l Univ. Capstone Design Project | `Team Leader` `Director` `PM` `Client Dev` | [GitHub Repo](https://github.com/liebenholz/EOTD) [Result Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E) | `Unreal5` Listen Server based Multi Player MOBA | K-DT Unreal Engine Bootcamp | `Director` `Game Design` `PM` `Tech Assistant` | [Keynote PDF](https://www.linkedin.com/in/liebenholz/overlay/projects/1441312079/multiple-media-viewer/?profileId=ACoAAEY7I_MB-G2P8xghb9iR_Mxn3mhuuDGN0UM&treasuryMediaId=1736608100530) [Review Article](https://velog.io/@liebenholz/arenarumble1) |
 
 ### 🎮 Personal Game Dev.
 | Project Title | Project Description | Organization | Notes |
 | :-: | :-: | :-: | :-: |
+| **Project RA (WIP)** | `Unity6` Casual Mobile Puzzle Battle Game | - | TBD |
 | **The Range (2023)** | `Unreal5` FPS Demo with Shooting Practice System | K-DT Unreal Engine Bootcamp | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
 <!--
 | **Project CW (TBD)** | `Unreal5` Open World Adventure Game with Stylized Graphics | ISEKAI Universe | `Director` `Game Design` `PM` `Client Dev` | TBD |
