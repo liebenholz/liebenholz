@@ -90,7 +90,7 @@ More information introduced on my [**Notion Site**](https://liebenholz.notion.si
 ### 🎮 Game Dev.
 | Project Title | Project Description | Organization | Role | Notes |
 | :-: | :-: | :-: | :-: | :-: |
-| **Liar's Dice** | Web based Multi Player Mini Game Platform | - | `Design` `PM` `Client` `Server` `QA` | TBD |
+| **Liar's Dice (2026)** | Web based Mini Game Platform for Multi Players(2-6) | - | `Design` `PM` `Client` `Server` `QA` | GitHub |
 | [**Era of the Dark (2024)**](https://youtu.be/rarDWn-Mdrc) | `Unreal5` Soulslike Single Player Action RPG | Kangwon Nat'l Univ. Capstone Design Project | `Team Leader` `Director` `PM` `Client Dev` | [GitHub](https://github.com/liebenholz/EOTD) [Report](https://drive.google.com/file/d/1XEbEbvLaEuZ___Co1uJv_oTW6LMTvXN0/view?usp=sharing) |
 | [**Arena Rumble (2023)**](https://youtu.be/TGwBppxJI_E) | `Unreal5` Listen Server based Multi Player MOBA | K-DT Unreal Engine Bootcamp | `Director` `Game Design` `PM` `Tech Assistant` | [Review](https://velog.io/@liebenholz/arenarumble1) |
 | **The Range (2023)** | `Unreal5` FPS Demo with Shooting Practice System | K-DT Unreal Engine Bootcamp | `Single Dev` | [GitHub](https://github.com/liebenholz/Reserved_Forces) |
